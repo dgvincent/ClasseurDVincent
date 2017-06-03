@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenue sur ma page GitHub
 
-You can use the [editor on GitHub](https://github.com/dgvincent/Lycee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Le contenu 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vous trouverez ici les différents notebooks jupyter que j'utilise dans le cadre de mon enseignement des mathématiques et dans le cadre de la formation
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cette page est rédigée en Markdown qui utilise une syntaxe facile à utiliser pour mettre en forme et écrire. Les conventions sont les suivantes:
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dgvincent/Lycee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+J'utilise pour mes pages un thème Jekyll sauvegardé dans le fichier de configuration `_config.yml`.
 
 ### Support or Contact
 
